@@ -32,7 +32,17 @@ This repository contains a series of Jupyter notebooks for performing data enric
     - Training machine learning models like Random Forest and XGBoost.  
     - Fine-tuning thresholds to optimize performance.  
     - Plotting PR curves for minority classes across various thresholds to select the most suitable one.  
-    - Building and analyzing confusion matrices and PR curves.  
+    - Building and analyzing confusion matrices and PR curves.
+
+- **07-Classical_ml_training.ipynb**  
+  - This notebook contains code for training machine learning models using traditional methods on tabular datasets.  
+  - It employs algorithms such as Random Forest and XGBoost to establish a performance benchmark for classical machine learning approaches.  
+
+- **08-Baseline_experiments.ipynb**  
+  - This notebook is dedicated to training baseline models.  
+  - The purpose of these models is to provide a reference point for comparing the outputs of classical machine learning models and enriched machine learning models.  
+  - By establishing a baseline, you can effectively measure the improvements gained through data enrichment and advanced modeling techniques.  
+
 
 ## How to Use  
 
